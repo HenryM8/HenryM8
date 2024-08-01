@@ -7,7 +7,7 @@ I am a graduate in Computer Systems Engineering with a strong passion for learni
 - **Languages:** JavaScript, TypeScript, PHP
 - **Frameworks/Libraries/Environments:** Laravel, Node.js, Express
 - **Databases:** MySQL, SQL
-- **Others:** Git, HTML, CSS, Tailwind, Bootstrap
+- **Others:** GitHub, GitBash, HTML, CSS, Tailwind, Bootstrap
 
 ### Contact
 - **LinkedIn:** [Henry Marín](https://www.linkedin.com/in/henry-marin-systems-engineer)
