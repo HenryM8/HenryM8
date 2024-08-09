@@ -9,6 +9,14 @@ I am a graduate in Computer Systems Engineering with a strong passion for learni
 - **Databases:** MySQL, SQL
 - **Others:** GitHub, GitBash, HTML, CSS, Tailwind, Bootstrap
 
+## Certificates 🏆
+I believe in continuous learning and have earned several certifications to enhance my skill set. Here are some of the certifications I have completed:
+
+- **[Certification [course-certificates-SCRUMstudy_Henry Marín.pdf](https://github.com/user-attachments/files/16567547/course-certificates-SCRUMstudy_Henry.Marin.pdf)
+Name]** - [SCRUM study] - [29/03/2022]
+- **[Certification Name]** - [Issuing Organization] - [Date]
+- **[Certification Name]** - [Issuing Organization] - [Date]
+
 ### Contact
 - **LinkedIn:** [Henry Marín](https://www.linkedin.com/in/henry-marin-systems-engineer)
 
