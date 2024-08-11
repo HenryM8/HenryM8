@@ -34,9 +34,9 @@ I believe in continuous learning and have earned several certifications to enhan
 ## GitHub Stats
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryM8-github&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryM8&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryM8-github&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryM8&theme=dark)
 
 ### Contact
 - **LinkedIn:** [Henry Marín](https://www.linkedin.com/in/henry-marin-systems-engineer)
