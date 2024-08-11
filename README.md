@@ -32,7 +32,7 @@ I believe in continuous learning and have earned several certifications to enhan
 - **[CCNAv7: Switching, Routing, and Wireless Essentials](https://drive.google.com/file/d/1m_plv_5fXz6l5H3hpURxnT52fxXeqJZp/view)** - Cisco Networking Academy - December 13, 2022
 
 ## GitHub Stats
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&theme=dark)
+![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&theme=dark&cache_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryM8&layout=compact&theme=dark)
 
