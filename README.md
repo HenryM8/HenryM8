@@ -9,7 +9,7 @@ I am a graduate in Computer Systems Engineering with a strong passion for learni
 - **Databases:** MySQL, SQL
 - **Others:** GitHub, GitBash, HTML, CSS, Tailwind, Bootstrap
 
-###Relevant Projects 🚀
+### Relevant Projects 🚀
 Here are some projects that showcase my skills and experience:
 
 Project A: A full-stack application built with Laravel and Vue.js. It handles user authentication, real-time notifications, and a responsive design.
@@ -18,7 +18,7 @@ Project B: A RESTful API developed with Node.js and Express, connected to a MySQ
 
 Project C: A responsive e-commerce website using TypeScript, React, and Tailwind CSS, with a focus on user experience and performance optimization.
 
-###Blog & Articles ✍️
+### Blog & Articles ✍️
 I enjoy sharing my knowledge and experiences with the tech community. Here are some articles I've written:
 
 Understanding Async/Await in JavaScript: A deep dive into asynchronous programming in JavaScript, with practical examples and tips.
