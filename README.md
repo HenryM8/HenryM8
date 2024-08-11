@@ -31,7 +31,12 @@ I believe in continuous learning and have earned several certifications to enhan
 - **[CCNAv7: Introduction to Networks](https://drive.google.com/file/d/1wSXg5knElG0so_ToR6jlnugZJExY8tMs/view)** - Cisco Networking Academy - April 30, 2022
 - **[CCNAv7: Switching, Routing, and Wireless Essentials](https://drive.google.com/file/d/1m_plv_5fXz6l5H3hpURxnT52fxXeqJZp/view)** - Cisco Networking Academy - December 13, 2022
 
+## GitHub Stats
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryM8-github&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryM8-github&theme=dark)
 
 ### Contact
 - **LinkedIn:** [Henry Marín](https://www.linkedin.com/in/henry-marin-systems-engineer)
