@@ -12,14 +12,15 @@ I am a graduate in Computer Systems Engineering with a strong passion for learni
 ## Certificates 🏆
 I believe in continuous learning and have earned several certifications to enhance my skill set. Here are some of the certifications I have completed:
 
-- **Certified Scrum Master (CSM)** - SCRUMstudy - March 29, 2022
-- **CCNAv7: Introduction to Networks** - Cisco Networking Academy - April 30, 2022
-- **CCNAv7: Switching, Routing, and Wireless Essentials** - Cisco Networking Academy - December 13, 2022
+- **[Certified Scrum Master (CSM)](https://drive.google.com/file/d/1fzjIyJ3WyhWPK9wbOwG6a2jv9SA7o-N-/view?usp=drive_link)** - SCRUMstudy - March 29, 2022
+- **[CCNAv7: Introduction to Networks](https://drive.google.com/file/d/1wSXg5knElG0so_ToR6jlnugZJExY8tMs/view)** - Cisco Networking Academy - April 30, 2022
+- **[CCNAv7: Switching, Routing, and Wireless Essentials](https://drive.google.com/file/d/1m_plv_5fXz6l5H3hpURxnT52fxXeqJZp/view)** - Cisco Networking Academy - December 13, 2022
 
 ### Contact
 - **LinkedIn:** [Henry Marín](https://www.linkedin.com/in/henry-marin-systems-engineer)
 
 Thanks for visiting my GitHub profile! I am always open to new projects and learning opportunities. Don't hesitate to reach out! 💬
+
 
 
 <!--
