@@ -37,6 +37,8 @@ I believe in continuous learning and have earned several certifications to enhan
 ### Contact
 - **LinkedIn:** [Henry Marín](https://www.linkedin.com/in/henry-marin-systems-engineer)
 - **Email:** [henryrm8@gmail.com](mailto:henryrm8@gmail.com)
+- **CV:** [Henry Alejandro Marín Aguilar](https://drive.google.com/file/d/12-IkUYHqIA55w7InhxLLBA-DR3yzdqLQ/view?usp=sharing)
+
 
 Thanks for visiting my GitHub profile! I am always open to new projects and learning opportunities. Don't hesitate to reach out! 💬
 
