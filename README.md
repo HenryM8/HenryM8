@@ -16,8 +16,6 @@ Here are some projects that showcase my skills and experience:
 
 - **Restaurant Management System (.NET Framework):** A social network-inspired application for restaurant owners, featuring a complete admin panel, user roles, dynamic statistics, and full authentication. [API](https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project) | [Web](https://github.com/HenryM8/C-Sharp-Web-of-the-Full-Stack-project)
 
-- **Macrobiotica Vida Natural (PHP Laravel):** A comprehensive application based on a macrobiotic store, built with PHP Laravel. The system allows for the management of products, users, roles, complete authentication, an error panel for scalability, and enables customers to send emails with product inquiries or lists of products they wish to purchase physically in the store. [Repository](https://github.com/HenryM8/Macrobiotica-Vida-Natural)
-
 - **JavaScript Practice (Eloquent JavaScript, 4th Edition):** Practical exercises based on the book, focusing on mastering JavaScript concepts. [Repository](https://github.com/HenryM8/Javascript)
 
 ## Certificates 🏆
