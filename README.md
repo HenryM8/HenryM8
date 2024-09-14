@@ -1,4 +1,4 @@
-## Hello, I'm Henry Marín <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Icon" width="20" height="20" style="border-radius: 50%; border: 1px solid #000;">
+## Hello, I'm Henry Marín <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
 
 ### About Me ⚡
 I am a graduate in Computer Systems Engineering with a strong passion for learning and developing full-stack applications. Currently, I'm delving into JavaScript, TypeScript, and Node.js. Additionally, I have developed complete applications using Laravel. I am learning English to expand my skills and opportunities in the professional field.
