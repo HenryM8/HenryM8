@@ -1,4 +1,4 @@
-## Hello, I'm Henry Marín 👨🏻‍💻
+## Hello, I'm Henry Marín ![GitHub Icon](https://github.com/fluidicon.png)
 
 ### About Me ⚡
 I am a graduate in Computer Systems Engineering with a strong passion for learning and developing full-stack applications. Currently, I'm delving into JavaScript, TypeScript, and Node.js. Additionally, I have developed complete applications using Laravel. I am learning English to expand my skills and opportunities in the professional field.
