@@ -26,11 +26,6 @@ I am a graduate in Computer Systems Engineering with a strong passion for learni
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-- **Languages:** JavaScript, TypeScript, PHP, C#
-- **Frameworks/Libraries/Environments:** Laravel, Node.js, Express, .NET Framework
-- **Databases:** MySQL, SQL
-- **Others:** GitHub, GitBash, HTML, CSS, Tailwind, Bootstrap
-
 ### Relevant Projects 🚀
 Here are some projects that showcase my skills and experience:
 
