@@ -22,6 +22,9 @@ I am a graduate in Computer Systems Engineering with a strong passion for learni
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?logo=burp-suite&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?logo=nosql&logoColor=white)
 
 - **Languages:** JavaScript, TypeScript, PHP, C#
 - **Frameworks/Libraries/Environments:** Laravel, Node.js, Express, .NET Framework
