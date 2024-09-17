@@ -1,15 +1,12 @@
 ## Hello, I'm Henry Marín <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
 
-### About Me ⚡
-I am a graduate in Computer Systems Engineering with a strong passion for learning and developing full-stack applications. Currently, I'm delving into JavaScript, TypeScript, and Node.js. Additionally, I have developed complete applications using Laravel. I am learning English to expand my skills and opportunities in the professional field.
-
 ### Technologies and Tools 📶
 - **LANGUAGES ()=>**![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 - **FRAMEWORKS ()=>**![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
 - **DATABASES ()=>** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 - **BUNDLERS ()=>** ![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?logo=vite&logoColor=white)
 - **LIBRARIES ()=>** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-- **DEPLOYMENT | DevOps ()=>** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+- **DEPLOYMENT | DEVOPS ()=>** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 - **TESTING ()=>** ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apache-jmeter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?logo=burp-suite&logoColor=white)
 - **VERSION CONTROL ()=>** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-4D4D4D?logo=git&logoColor=white)
 - **METHODOLOGY ()=>** ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
