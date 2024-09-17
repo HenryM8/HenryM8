@@ -4,7 +4,7 @@
 I am a graduate in Computer Systems Engineering with a strong passion for learning and developing full-stack applications. Currently, I'm delving into JavaScript, TypeScript, and Node.js. Additionally, I have developed complete applications using Laravel. I am learning English to expand my skills and opportunities in the professional field.
 
 ### Technologies and Tools 📶
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
+- **Languages:**![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
 - ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) 
