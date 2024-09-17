@@ -13,7 +13,6 @@
 - **METHODOLOGY ()=>** ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)
 
 ### Relevant Projects 🚀
-Here are some projects that showcase my skills and experience:
 
 - **Online Learning Application (PHP Laravel):** A complete system for teachers to create and manage course-related posts, including a secure authentication system, administrative panel, image gallery, and error logging. [Live Project](https://liceo-san-antonio.com/)
 
@@ -22,7 +21,6 @@ Here are some projects that showcase my skills and experience:
 - **JavaScript Practice (Eloquent JavaScript, 4th Edition):** Practical exercises based on the book, focusing on mastering JavaScript concepts. [Repository](https://github.com/HenryM8/Javascript)
 
 ## Certificates 🏆
-I believe in continuous learning and have earned several certifications to enhance my skill set. Here are some of the certifications I have completed:
 
 - **[Certified Scrum Master (CSM)](https://drive.google.com/file/d/1fzjIyJ3WyhWPK9wbOwG6a2jv9SA7o-N-/view?usp=drive_link)** - SCRUMstudy - March 29, 2022
 - **[CCNAv7: Introduction to Networks](https://drive.google.com/file/d/1wSXg5knElG0so_ToR6jlnugZJExY8tMs/view)** - Cisco Networking Academy - April 30, 2022
