@@ -11,7 +11,7 @@
 - **TESTING ()=>** ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apache-jmeter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?logo=burp-suite&logoColor=white)
 - **PACKAGE MANAGERS ()=>** ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 - **VERSION CONTROL ()=>** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-4D4D4D?logo=git&logoColor=white)
-- **METHODOLOGY ()=>** ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-Architecture-blue)
+- **METHODOLOGY ()=>** ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-Architecture-blue) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Architecture-blue)
 
 ### Relevant Projects 🚀
 
