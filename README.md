@@ -7,6 +7,7 @@
 - **BUNDLERS ()=>** ![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?logo=vite&logoColor=white)
 - **LIBRARIES ()=>** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 - **DEPLOYMENT | DEVOPS ()=>** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+- **CDN & Security ()=>** ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 - **TESTING ()=>** ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apache-jmeter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?logo=burp-suite&logoColor=white)
 - **PACKAGE MANAGERS ()=>** ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 - **VERSION CONTROL ()=>** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-4D4D4D?logo=git&logoColor=white)
