@@ -14,6 +14,8 @@
 - **PACKAGE MANAGERS ()=>** ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 - **VERSION CONTROL ()=>** ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-4D4D4D?logo=git&logoColor=white)
 - **METHODOLOGY ()=>** ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white) 
+![Astro](https://img.shields.io/badge/Astro-0C1222?logo=astro&logoColor=FDFDFE)
+
 
 ### Relevant Projects 🚀
 
