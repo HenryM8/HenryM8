@@ -7,7 +7,7 @@
 - **CLOUD PLATFORMS ()=>** ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logo=amazonaws&logoColor=white)
 - **BUNDLERS ()=>** ![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?logo=vite&logoColor=white)
 - **ORMs ()=>** ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white) ![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?logo=laravel&logoColor=white)
-- **STATE MANAGEMENT ()=>** ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logoColor=white)
+- **STATE MANAGEMENT ()=>** ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-181717?logo=zustand&logoColor=white)
 - **LIBRARIES ()=>** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 - **MOBILE DEVELOPMENT ()=>** ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 - **DEPLOYMENT | DEVOPS ()=>** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
