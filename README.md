@@ -35,6 +35,7 @@
 - **[Astro](https://drive.google.com/file/d/1PryypYTe1BMIrdlLqpA0bmybbN8hVAUR/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Nest-GraphQL](https://drive.google.com/file/d/13PK2N_Tzp-ZHaF1A8PqQmXiMX0rksTA-/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Git-GitHub](https://drive.google.com/file/d/134O_NKDmimg9ApzpgqXTISFjM9mcV2Oq/view?usp=sharing)** - {Dev/Talles} - 2024 
+- **[Nest-Reportes](https://drive.google.com/file/d/1IRuUWwHk9YBz_e6ytTOTJWgjgVIssQ2c/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Docker](https://drive.google.com/file/d/1UqHskAUAke-1Nrp6ZlUB-NumaCJ6ag_b/view?usp=sharing)** - {Dev/Talles} - 2024 
 
 <div align="center">
