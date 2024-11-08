@@ -32,11 +32,11 @@
 - **[Certified Scrum Master (CSM)](https://drive.google.com/file/d/1fzjIyJ3WyhWPK9wbOwG6a2jv9SA7o-N-/view?usp=drive_link)** - SCRUMstudy - 2022
 - **[CCNAv7: Introduction to Networks](https://drive.google.com/file/d/1wSXg5knElG0so_ToR6jlnugZJExY8tMs/view)** - Cisco Networking Academy - 2022
 - **[CCNAv7: Switching, Routing, and Wireless Essentials](https://drive.google.com/file/d/1m_plv_5fXz6l5H3hpURxnT52fxXeqJZp/view)** - Cisco Networking Academy - 2022
-- **[NestJs-Microservicios](https://drive.google.com/file/d/1APDYi0F71oq5kTA7y2BT5bamX7bXuod3/view?usp=sharing)** - {Dev/Talles} - 2024 
+- **[NestJs-Microservices](https://drive.google.com/file/d/1APDYi0F71oq5kTA7y2BT5bamX7bXuod3/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Astro](https://drive.google.com/file/d/1PryypYTe1BMIrdlLqpA0bmybbN8hVAUR/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[NestJs-GraphQL](https://drive.google.com/file/d/13PK2N_Tzp-ZHaF1A8PqQmXiMX0rksTA-/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Git-GitHub](https://drive.google.com/file/d/134O_NKDmimg9ApzpgqXTISFjM9mcV2Oq/view?usp=sharing)** - {Dev/Talles} - 2024 
-- **[NestJs-Reportes](https://drive.google.com/file/d/1IRuUWwHk9YBz_e6ytTOTJWgjgVIssQ2c/view?usp=sharing)** - {Dev/Talles} - 2024 
+- **[NestJs-Reports](https://drive.google.com/file/d/1IRuUWwHk9YBz_e6ytTOTJWgjgVIssQ2c/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Docker](https://drive.google.com/file/d/1UqHskAUAke-1Nrp6ZlUB-NumaCJ6ag_b/view?usp=sharing)** - {Dev/Talles} - 2024 
 
 <div align="center">
