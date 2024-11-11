@@ -39,6 +39,7 @@
 - **[Git-GitHub](https://drive.google.com/file/d/134O_NKDmimg9ApzpgqXTISFjM9mcV2Oq/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[NestJs-Reports](https://drive.google.com/file/d/1IRuUWwHk9YBz_e6ytTOTJWgjgVIssQ2c/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Docker](https://drive.google.com/file/d/1UqHskAUAke-1Nrp6ZlUB-NumaCJ6ag_b/view?usp=sharing)** - {Dev/Talles} - 2024 
+- **[NextJs-PagesRouter](https://drive.google.com/file/d/1VCk8CQqa0oTyQpSbsumm8e6KMLG7H35T/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Nest-NodeJs](https://drive.google.com/file/d/16P9EPOyE1PjWnm-BSt4N_yKsn-6-2fAq/view?usp=sharing)** - {Dev/Talles} - 2024  
 
 <div align="center">
