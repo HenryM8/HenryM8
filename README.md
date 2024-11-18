@@ -45,7 +45,8 @@
 - **[NextJs-PagesRouter](https://drive.google.com/file/d/1VCk8CQqa0oTyQpSbsumm8e6KMLG7H35T/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Nest-NodeJs](https://drive.google.com/file/d/16P9EPOyE1PjWnm-BSt4N_yKsn-6-2fAq/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[NodeJs](https://drive.google.com/file/d/1f-zbXEpZwvRfyIMsm3u1bAlx-eT6kvq8/view?usp=sharing)** - {Dev/Talles} - 2024
-- **[OpenAI-NestJs-React](https://drive.google.com/file/d/1mNGzKpsjpH5xgqeyDxdftUTtenCExW3D/view?usp=sharing)** - {Dev/Talles} - 2024  
+- **[OpenAI-NestJs-React](https://drive.google.com/file/d/1mNGzKpsjpH5xgqeyDxdftUTtenCExW3D/view?usp=sharing)** - {Dev/Talles} - 2024 
+ - **[React-Native-CLI](https://drive.google.com/file/d/1YsTjJZWynsRW7dXo66V6f7nG1ySOurnq/view?usp=sharing)** - {Dev/Talles} - 2024 
 
 <div align="center">
 
