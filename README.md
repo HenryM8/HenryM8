@@ -35,6 +35,7 @@
 - **[NestJs-Microservices](https://drive.google.com/file/d/1APDYi0F71oq5kTA7y2BT5bamX7bXuod3/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[NextJs](https://drive.google.com/file/d/1ZwtTrm9yXqbY2IH9AP5RIMEo3Vp4O1vp/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[NodeJs-CleanArchitecture](https://drive.google.com/file/d/1CmKC-esHVgV0tCosxZY3lVHrpNMX3Msj/view?usp=sharing)** - {Dev/Talles} - 2024
+- **[React-Pro](https://drive.google.com/file/d/11FlNt8hVVUFRXB-zYBwXnuWxWZ1uMMjj/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[React](https://drive.google.com/file/d/1TKxBZ9-PU5lMs0rXDs-4IPiO7x3iQXCY/view?usp=sharing )** - {Dev/Talles} - 2024 
 - **[Astro](https://drive.google.com/file/d/1PryypYTe1BMIrdlLqpA0bmybbN8hVAUR/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[RxJs](https://drive.google.com/file/d/1IcCEv2mMaWGcHAHCyMVlyI5SnX7CDxmJ/view?usp=sharing)** - {Dev/Talles} - 2024 
