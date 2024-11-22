@@ -50,6 +50,7 @@
 - **[React-Socket-io](https://drive.google.com/file/d/1UffrFdsJS2Bko6sIxq9MrINe35W5f2W4/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[React-Native-CLI](https://drive.google.com/file/d/1YsTjJZWynsRW7dXo66V6f7nG1ySOurnq/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[React-Native-EXPO](https://drive.google.com/file/d/1JSxiQ1WRrPR0CmAWj-EmwQS8lXkv8PjK/view?usp=sharing)** - {Dev/Talles} - 2024 
+- **[Principles-Clean & SOLID Code](https://drive.google.com/file/d/1g4iYEEM95wwYrTvySiDSgf5eglajPvde/view?usp=sharing)** - {Dev/Talles} - 2024 
 
 <div align="center">
 
