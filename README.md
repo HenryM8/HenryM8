@@ -51,6 +51,7 @@
 - **[React-Native-CLI](https://drive.google.com/file/d/1YsTjJZWynsRW7dXo66V6f7nG1ySOurnq/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[React-Native-EXPO](https://drive.google.com/file/d/1JSxiQ1WRrPR0CmAWj-EmwQS8lXkv8PjK/view?usp=sharing)** - {Dev/Talles} - 2024 
 - **[Principles-CleanCode & SOLID](https://drive.google.com/file/d/1g4iYEEM95wwYrTvySiDSgf5eglajPvde/view?usp=sharing)** - {Dev/Talles} - 2024 
+- **[SQL-PostgreSQL](https://drive.google.com/file/d/1q7eDF--NPjCdUoBv_dC2mtVNoS_MITAP/view?usp=sharing)** - {Dev/Talles} - 2024 
 
 <div align="center">
 
