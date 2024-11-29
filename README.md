@@ -3,30 +3,40 @@
 <h3 align="left">Languages and Tools⚙️:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Programming & Markup Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,cs,php,html,css"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frameworks & Libraries:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,dotnet,laravel,bootstrap,tailwind"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Frameworks:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=js,ts,php,cs,html,css,nodejs,express,react,nextjs,dotnet,laravel,bootstrap,tailwind"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases & ORMs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+            <img height="40" src="https://skillicons.dev/icons?i=prisma"/>
+        </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps & Deployment:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,apache"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps, Deployment & Tools:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,apache,git,github,vercel,netlify"/>
+        </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing & Package Management:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jest,postman,npm"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">State Management & Libraries:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=redux"/>
+            <img height="40" src="https://skillicons.dev/icons?i=npm"/>
+        </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control & Hosting:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,vercel,netlify"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing & Automation:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=jest,postman"/>
+            <img height="40" src="https://skillicons.dev/icons?i=selenium"/>
+        </td>
     </tr>
 </table>
+
 
 ### Relevant Projects 🚀
 
