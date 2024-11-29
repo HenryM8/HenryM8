@@ -1,7 +1,8 @@
 <div align="center">
 
-## Hello, I'm Henry Marín <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
+## Hello, I'm Henry Marín 
 
+<div align="center">
 <h3 align="left">Languages and Tools⚙️</h3>
 <table>
     <tr>
@@ -82,7 +83,7 @@
 
 <div align="center">
 
-## GitHub Stats and activity
+## GitHub Stats and activity <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
   
 <!-- Activity Graph -->
 [![Henry's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
