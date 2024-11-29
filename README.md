@@ -109,5 +109,9 @@
  **CV:** [Henry Alejandro Marín Aguilar](https://drive.google.com/file/d/1v4tsMkhQAwK97mQ4sFuQapM_JmJjygQX/view?usp=sharing)
 
 Thanks for visiting my GitHub profile! I am always open to new projects and learning opportunities. Don't hesitate to reach out! 💬
+
+              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
 </div>
 
