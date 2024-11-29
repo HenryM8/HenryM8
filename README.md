@@ -72,13 +72,27 @@
 
 <div align="center">
 
-## GitHub Stats
+## GitHub Stats and activity
   
-  ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&theme=dark&cache_seconds=86400)
+<h3 align="left">Activity:</h3>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryM8&layout=compact&theme=dark)
+<!-- Activity Graph -->
+[![Henry's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenryM8&theme=dark)
+<!-- Stats and Top Languages -->
+<div align="center">
+  <a href="https://github.com/HenryM8">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryM8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Henry's Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Henry's GitHub Stats"/>
+  </a>
+</div>
+
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://github.com/HenryM8">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryM8&theme=tokyonight" alt="Henry's GitHub Streak" />
+  </a>
+</p>
 
 
 
