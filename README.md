@@ -1,6 +1,6 @@
 ## Hello, I'm Henry Marín <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
 
-<h3 align="left">Languages and Tools⚙️:</h3>
+<h3 align="left">Languages and Tools⚙️</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Tools:</td>
@@ -16,11 +16,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps, Deployment & Hosting:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,vercel,netlify"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,maven,vercel,netlify"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing & Package Management:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jest,postman,npm"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,postman,npm"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
