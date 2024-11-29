@@ -3,39 +3,31 @@
 <h3 align="left">Languages and Tools⚙️:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Frameworks:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=js,ts,php,cs,html,css,nodejs,express,react,nextjs,dotnet,laravel,bootstrap,tailwind"/>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,cs,php,html,css,prisma,redux,zustand"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frameworks & Libraries:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,dotnet,laravel,astro,bootstrap,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases & ORMs:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-            <img height="40" src="https://skillicons.dev/icons?i=prisma"/>
-        </td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps, Deployment & Tools:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,apache,git,github,vercel,netlify"/>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps, Deployment & Hosting:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,apache,vercel,netlify"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">State Management & Libraries:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=redux"/>
-            <img height="40" src="https://skillicons.dev/icons?i=npm"/>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing & Package Management:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest,postman,npm"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing & Automation:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=jest,postman"/>
-            <img height="40" src="https://skillicons.dev/icons?i=selenium"/>
-        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
 </table>
+
 
 
 ### Relevant Projects 🚀
