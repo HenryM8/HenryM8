@@ -109,5 +109,9 @@
  **CV:** [Henry Alejandro Marín Aguilar](https://drive.google.com/file/d/1v4tsMkhQAwK97mQ4sFuQapM_JmJjygQX/view?usp=sharing)
 
 Thanks for visiting my GitHub profile! I am always open to new projects and learning opportunities. Don't hesitate to reach out! 💬
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<img src="https://raw.githubusercontent.com/henrymarin/henrymarin/snake/github-snake-dark.svg" width="100%">
+
 </div>
 
