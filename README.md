@@ -24,16 +24,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">ORMs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=prisma"/> 
-            <span style="font-weight: bold; margin-left: 10px;">Eloquent</span>, 
-            <span style="font-weight: bold; margin-left: 5px;">Entity Framework</span>
-        </td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=prisma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">State Management:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=redux"/> 
-            <span style="font-weight: bold; margin-left: 10px;">Zustand</span>
-        </td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=redux"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Libraries:</td>
@@ -69,12 +64,9 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Methodology:</td>
-        <td><span style="font-weight: bold;">Scrum</span></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=scrum"/></td>
     </tr>
 </table>
-
-
-
 
 ### Relevant Projects 🚀
 
