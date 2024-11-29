@@ -12,11 +12,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases & ORMs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps, Deployment & Hosting:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,apache,vercel,netlify"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,vercel,netlify"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing & Package Management:</td>
