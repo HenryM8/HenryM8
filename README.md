@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hello, I'm Henry Marín <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
 
 <h3 align="left">Languages and Tools⚙️</h3>
@@ -28,7 +30,7 @@
     </tr>
 </table>
 
-
+<div align="center">
 
 ### Relevant Projects 🚀
 
