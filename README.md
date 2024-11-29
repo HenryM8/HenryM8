@@ -1,9 +1,11 @@
 <div align="center">
 
-## Hello, I'm Henry Marín 
+## Hello, I'm Henry Marín ♠️
 
 <div align="center">
-<h3 align="left">Languages and Tools⚙️</h3>
+
+<h3 align="left">Languages and Tools ⚙️</h3>
+
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Tools:</td>
