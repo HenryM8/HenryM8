@@ -40,6 +40,7 @@
 
 - **JavaScript Practice (Eloquent JavaScript, 4th Edition):** Practical exercises based on the book, focusing on mastering JavaScript concepts. [Repository](https://github.com/HenryM8/Javascript)
 
+<div align="center">
 ## Certificates 🏆
 
 <div align="center">
