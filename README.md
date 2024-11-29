@@ -1,25 +1,73 @@
 ## Hello, I'm Henry Marín <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
 
-### Technologies and Tools ⚙️
+<h3 align="left">Languages and Tools⚙️:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,cs,php,html,css"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frameworks:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,dotnet,laravel,astro"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Cloud Platforms:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Bundlers:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vite"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">ORMs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=prisma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">State Management:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=redux"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Libraries:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,tailwind"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Mobile Development:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Deployment | DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,apache"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">CDN & Security:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cloudflare"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Static Hosting Services:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Testing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest,postman"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Package Managers:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Methodology:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=scrum"/></td>
+    </tr>
+</table>
 
-| **Category**              | **Technologies**                                                                                                                                                                                                                                                                                               |
-|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**             | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-| **Frameworks**            | ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-0C1222?logo=astro&logoColor=FDFDFE) |
-| **Databases**             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white) |
-| **Cloud Platforms**       | ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?logo=amazonaws&logoColor=white)                                                                                                                                                                                                                         |
-| **Bundlers**              | ![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?logo=vite&logoColor=white)                                                                                                                                                                                                                            |
-| **ORMs**                  | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=dotnet&logoColor=white) ![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?logo=laravel&logoColor=white)                              |
-| **State Management**      | ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-181717?logo=zustand&logoColor=white)                                                                                                                                           |
-| **Libraries**             | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)                                                                                                              |
-| **Mobile Development**    | ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)                                                                                                                                                                                                                |
-| **Deployment | DevOps**   | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)                                            |
-| **CDN & Security**        | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)                                                                                                                                                                                                                |
-| **Static Hosting Services**| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)                                                                                                                                       |
-| **Testing**               | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apache-jmeter&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?logo=burp-suite&logoColor=white) |
-| **Package Managers**      | ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)                                                                                                                                                                                                                                    |
-| **Version Control**       | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-4D4D4D?logo=git&logoColor=white)                                                                                                                                             |
-| **Methodology**           | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)                                                                                                                                                                                                                       |
 
 
 ### Relevant Projects 🚀
