@@ -45,15 +45,15 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=C-Sharp-API-of-the-Full-Stack-project&theme=merko&border_color=599200">
+      <a href="https://github.com/HenryM8/Javascript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=Javascript&theme=merko&border_color=599200">
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/HenryM8/Javascript">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=Javascript&theme=merko&border_color=599200">
+      <a href="https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=C-Sharp-API-of-the-Full-Stack-project&theme=merko&border_color=599200">
       </a>
     </td>
     <td>
