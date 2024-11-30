@@ -37,11 +37,32 @@
 
 - **Online Learning Application (PHP Laravel):** A complete system for teachers to create and manage course-related posts, including a secure authentication system, administrative panel, image gallery, and error logging. [Live Project](https://liceo-san-antonio.com/)
 
-<a href="https://github.com/Xpronoob/Ecommerce-API"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xpronoob&repo=Ecommerce-API&theme=merko&border_color=599200">
-
-<a href="https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=C-Sharp-API-of-the-Full-Stack-project&theme=merko&border_color=599200">
-
-<a href="https://github.com/HenryM8/Javascript"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=Javascript&theme=merko&border_color=599200">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Xpronoob/Ecommerce-API">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xpronoob&repo=Ecommerce-API&theme=merko&border_color=599200">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=C-Sharp-API-of-the-Full-Stack-project&theme=merko&border_color=599200">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HenryM8/Javascript">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=Javascript&theme=merko&border_color=599200">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/HenryM8/C-Sharp-Web-of-the-Full-Stack-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=C-Sharp-Web-of-the-Full-Stack-project&theme=merko&border_color=599200">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
