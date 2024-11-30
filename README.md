@@ -37,11 +37,11 @@
 
 <a href="https://github.com/Xpronoob/Ecommerce-API"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xpronoob&repo=Ecommerce-API&theme=merko&border_color=599200">
 
-- **Online Learning Application (PHP Laravel):** A complete system for teachers to create and manage course-related posts, including a secure authentication system, administrative panel, image gallery, and error logging. [Live Project](https://liceo-san-antonio.com/)
+<a href="https://github.com/HenryM8/LiceoSanAntonio-Laravel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=LiceoSanAntonio-Laravel&theme=merko&border_color=599200">
 
-- **Restaurant Management System (.NET Framework):** A social network-inspired application for restaurant owners, featuring a complete admin panel, user roles, dynamic statistics, and full authentication. [API](https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project) | [Web](https://github.com/HenryM8/C-Sharp-Web-of-the-Full-Stack-project)
+<a href="https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=C-Sharp-API-of-the-Full-Stack-project&theme=merko&border_color=599200">
 
-- **JavaScript Practice (Eloquent JavaScript, 4th Edition):** Practical exercises based on the book, focusing on mastering JavaScript concepts. [Repository](https://github.com/HenryM8/Javascript)
+<a href="https://github.com/HenryM8/Javascript"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=Javascript&theme=merko&border_color=599200">
 
 <div align="center">
 
