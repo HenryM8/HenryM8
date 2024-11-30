@@ -35,7 +35,7 @@
 
 ### Relevant Projects 🚀
 
-- **Ecommerce API (Node.js, TypeScript, Express):** Collaborative development of a scalable backend API for an eCommerce platform. Includes user authentication (JWT), product management, cart functionality, order processing, and integration with Prisma ORM for database operations. Features robust schema validation with Zod and comprehensive tests with Jest. [Repository](https://github.com/Xpronoob/Ecommerce-API)
+<a href="https://github.com/Xpronoob/Ecommerce-API"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xpronoob&repo=Ecommerce-API&theme=merko&border_color=599200"> </a> Collaborative development of a scalable backend API for an eCommerce platform. Includes user authentication (JWT), product management, cart functionality, order processing, and integration with Prisma ORM for database operations. Features robust schema validation with Zod and comprehensive tests with Jest.
 
 - **Online Learning Application (PHP Laravel):** A complete system for teachers to create and manage course-related posts, including a secure authentication system, administrative panel, image gallery, and error logging. [Live Project](https://liceo-san-antonio.com/)
 
