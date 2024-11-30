@@ -37,7 +37,7 @@
 
 <a href="https://github.com/Xpronoob/Ecommerce-API"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xpronoob&repo=Ecommerce-API&theme=merko&border_color=599200">
 
-<a href="https://github.com/HenryM8/LiceoSanAntonio-Laravel"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=LiceoSanAntonio-Laravel&theme=merko&border_color=599200">
+<a href="https://liceo-san-antonio.com/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=Online-Learning-Application&theme=merko&border_color=599200&show_owner=true">
 
 <a href="https://github.com/HenryM8/C-Sharp-API-of-the-Full-Stack-project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HenryM8&repo=C-Sharp-API-of-the-Full-Stack-project&theme=merko&border_color=599200">
 
