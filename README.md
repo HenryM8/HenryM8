@@ -6,16 +6,16 @@
 
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,cs,php,html,css,prisma,redux,zustand"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Libraries:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,cs,php,graphql,html,css,reactivex,bootstrap,tailwind,"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frameworks & Libraries:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,dotnet,laravel,astro,bootstrap,tailwind"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frameworks:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,dotnet,laravel,astro"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Databases & ORMs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,prisma,supabase,mongodb,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps, Deployment & Hosting:</td>
