@@ -7,7 +7,7 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages & Libraries:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,cs,php,graphql,html,css,reactivex,bootstrap,tailwind,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,cs,php,graphql,html,css,reactivex,bootstrap,tailwind"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frameworks:</td>
