@@ -2,6 +2,29 @@
 
 ## ♣️ Hello, I'm Henry Marín ♠️
 
+<h3 align="center">Proficiency Levels 🌟</h3>
+
+<div align="center">
+  <div>
+    <p>React</p>
+    <div style="background: #ddd; border-radius: 10px; height: 10px; width: 70%; margin: 0 auto;">
+      <div style="background: #4c569e; width: 85%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+  <div>
+    <p>Node.js</p>
+    <div style="background: #ddd; border-radius: 10px; height: 10px; width: 70%; margin: 0 auto;">
+      <div style="background: #4c569e; width: 80%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+  <div>
+    <p>TypeScript</p>
+    <div style="background: #ddd; border-radius: 10px; height: 10px; width: 70%; margin: 0 auto;">
+      <div style="background: #4c569e; width: 90%; height: 100%; border-radius: 10px;"></div>
+    </div>
+  </div>
+</div>
+
 <h3 align="center">Languages and Tools ⚙️</h3>
 
 <table>
