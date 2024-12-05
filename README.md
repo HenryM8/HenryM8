@@ -2,6 +2,8 @@
 
 ## ♣️ Hello, I'm Henry Marín ♠️
 
+<hr style="border: 2px solid #4c569e; margin: 20px 0;">
+
 <h3 align="center">Languages and Tools ⚙️</h3>
 
 <table>
