@@ -1,6 +1,12 @@
 <div align="center">
 
 ## ♣️ Hello, I'm Henry Marín ♠️
+<div>
+  <p>React</p>
+  <div style="background: #ddd; border-radius: 10px; height: 10px; width: 100%;">
+    <div style="background: #4c569e; width: 85%; height: 100%; border-radius: 10px;"></div>
+  </div>
+</div>
 
 <hr style="border: 2px solid #4c569e; margin: 20px 0;">
 
