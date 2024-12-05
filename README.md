@@ -68,7 +68,9 @@
 
 <div align="center">
 
-## Certificates 🏆
+### Certificates 🏆
+
+<hr style="border: 2px solid #4c569e; margin: 20px 0;">
 
 <div align="center">
 
