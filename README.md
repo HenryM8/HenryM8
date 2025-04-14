@@ -77,6 +77,7 @@
 | **CCNAv7: Switching, Routing, and Wireless Essentials** | Cisco Networking Academy | 2022 | [View](https://drive.google.com/file/d/1m_plv_5fXz6l5H3hpURxnT52fxXeqJZp/view) |
 | **JavaScript** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1Cu8BM5XA316S3XyReqZ4FXhZA2wI4Qii/view?usp=sharing) |
 | **TypeScript** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1wr9M1buD88Q7BDRCp0FC65tkz3wXUXAL/view?usp=sharing) |
+| **NodeJs** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1f-zbXEpZwvRfyIMsm3u1bAlx-eT6kvq8/view?usp=sharing) |
 <!-- | **NestJs-Microservices** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1APDYi0F71oq5kTA7y2BT5bamX7bXuod3/view?usp=sharing) |
 | **NextJs** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1ZwtTrm9yXqbY2IH9AP5RIMEo3Vp4O1vp/view?usp=sharing) |
 | **NodeJs-CleanArchitecture** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1CmKC-esHVgV0tCosxZY3lVHrpNMX3Msj/view?usp=sharing) |
@@ -89,9 +90,8 @@
 | **NestJs-Reports** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1IRuUWwHk9YBz_e6ytTOTJWgjgVIssQ2c/view?usp=sharing) |
 | **Docker** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1UqHskAUAke-1Nrp6ZlUB-NumaCJ6ag_b/view?usp=sharing) |
 | **NextJs-PagesRouter** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1VCk8CQqa0oTyQpSbsumm8e6KMLG7H35T/view?usp=sharing) |
-| **Nest-NodeJs** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/16P9EPOyE1PjWnm-BSt4N_yKsn-6-2fAq/view?usp=sharing) | -->
-| **NodeJs** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1f-zbXEpZwvRfyIMsm3u1bAlx-eT6kvq8/view?usp=sharing) |
-<!-- | **Zustand** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1KtQv7asIawad2abPSBAJz6dPWm1QuwW_/view?usp=sharing) |
+| **Nest-NodeJs** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/16P9EPOyE1PjWnm-BSt4N_yKsn-6-2fAq/view?usp=sharing) | 
+| **Zustand** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1KtQv7asIawad2abPSBAJz6dPWm1QuwW_/view?usp=sharing) |
 | **OpenAI-NestJs-React** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1mNGzKpsjpH5xgqeyDxdftUTtenCExW3D/view?usp=sharing) |
 | **React-Socket-io** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1UffrFdsJS2Bko6sIxq9MrINe35W5f2W4/view?usp=sharing) |
 | **React-Native-CLI** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1YsTjJZWynsRW7dXo66V6f7nG1ySOurnq/view?usp=sharing) |
