@@ -61,47 +61,6 @@
   </a>
 </p>
 
-## Featured Repositories & Activity 📂
-
-<!-- REEMPLAZA LOS REPOS POR LOS TUYOS PRINCIPALES -->
-<table>
-  <tr>
-    <th>Repository</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Activity</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HenryM8/mi-backend-nestjs">mi-backend-nestjs</a></td>
-    <td>API REST modular con NestJS, auth JWT y arquitectura limpia.</td>
-    <td>NestJS · TypeScript · PostgreSQL · Docker</td>
-    <td>🚀 Active development</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HenryM8/mi-dashboard-next">mi-dashboard-next</a></td>
-    <td>Panel administrativo con gráficos, filtros y auth para clientes.</td>
-    <td>Next.js · React · TailwindCSS</td>
-    <td>🛠️ Ongoing improvements</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HenryM8/mi-microservice-payments">mi-microservice-payments</a></td>
-    <td>Microservicio para manejo de pagos, colas y eventos.</td>
-    <td>Node.js · Express · RabbitMQ · MongoDB</td>
-    <td>✅ Stable / maintenance mode</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/HenryM8/mi-app-react-native">mi-app-react-native</a></td>
-    <td>Aplicación móvil para gestionar tareas y notificaciones en tiempo real.</td>
-    <td>React Native · Expo · Socket.IO</td>
-    <td>📱 Feature updates</td>
-  </tr>
-</table>
-
-<!-- Puedes añadir una fila para proyectos privados sin revelar el repo -->
-<p align="center">
-  <i>También trabajo en varios proyectos privados de clientes (fintech, dashboards y microservicios en producción).</i>
-</p>
-
 ### Contact
  **Email:** [henryrm8@gmail.com](mailto:henryrm8@gmail.com)
 
