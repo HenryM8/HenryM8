@@ -43,7 +43,7 @@
 | **JavaScript** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1Cu8BM5XA316S3XyReqZ4FXhZA2wI4Qii/view?usp=sharing) |
 | **TypeScript** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1wr9M1buD88Q7BDRCp0FC65tkz3wXUXAL/view?usp=sharing) |
 | **NodeJs** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1f-zbXEpZwvRfyIMsm3u1bAlx-eT6kvq8/view?usp=sharing) |
-<!-- resto de certificados ocultos para que no se haga tan largo -->
+<!-- aquí mantienes el resto de certificados comentados como ya los tenías -->
 </div>
  
 
@@ -51,32 +51,52 @@
 
 ## GitHub Stats and activity <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
   
-<!-- Activity Graph en rojo (como antes, vercel.app) -->
+<!-- Activity Graph en rojo (se mantiene, es el que mejor funciona) -->
 [![Henry's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&bg_color=0d1117&color=ff4c8b&line=ff1d58&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Stats y Lenguajes en rojo -->
-<div align="center">
-  <a href="https://github.com/HenryM8">
-    <!-- Top Languages -->
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryM8&layout=compact&theme=radical&title_color=ff4c8b&text_color=ffffff&icon_color=ff4c8b&border_color=ff1d58&cache_seconds=86400"
-      alt="Henry's Top Languages"
-    />
-    <!-- Main Stats -->
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&theme=radical&title_color=ff4c8b&text_color=ffffff&icon_color=ff4c8b&border_color=ff1d58&include_all_commits=true&count_private=true&cache_seconds=86400"
-      alt="Henry's GitHub Stats"
-    />
-  </a>
-</div>
-
-<!-- Streak Stats en rojo (esta ya te funcionaba bien) -->
+<!-- Streak Stats en rojo (ya comprobado que funciona bien) -->
 <p align="center">
   <a href="https://github.com/HenryM8">
     <img src="https://streak-stats.demolab.com/?user=HenryM8&theme=radical&ring=ff4c8b&fire=ff1d58&currStreakLabel=ffffff" alt="Henry's GitHub Streak" />
   </a>
+</p>
+
+<!-- Nuevo bloque: Profile Highlights en lugar de stats/top-langs -->
+<h3>Profile Highlights ✨</h3>
+
+<p align="center">
+  <table>
+    <tr>
+      <td>🚀 Focus</td>
+      <td>Backend & Fullstack JavaScript / TypeScript</td>
+    </tr>
+    <tr>
+      <td>🧱 Main Stack</td>
+      <td>Node.js · NestJS · React · Next.js · PostgreSQL/MySQL</td>
+    </tr>
+    <tr>
+      <td>⚙️ Architecture</td>
+      <td>Clean Architecture · SOLID · Microservices · REST & GraphQL</td>
+    </tr>
+    <tr>
+      <td>☁️ DevOps</td>
+      <td>Docker · Kubernetes · CI/CD · Cloudflare · Vercel / Netlify</td>
+    </tr>
+    <tr>
+      <td>✅ Practices</td>
+      <td>Testing (Jest, Selenium) · Code Review · Agile/Scrum (CSM)</td>
+    </tr>
+  </table>
+</p>
+
+<!-- Badges de stack (más simples y estables que las stats dinámicas) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=ff4c8b" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=ffffff&color=ff4c8b" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=ffffff&color=ff4c8b" />
+  <img src="https://img.shields.io/badge/API-NestJS-informational?style=for-the-badge&logo=nestjs&logoColor=ffffff&color=ff4c8b" />
+  <img src="https://img.shields.io/badge/Web-React%20%7C%20Next.js-informational?style=for-the-badge&logo=react&logoColor=ffffff&color=ff4c8b" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL%20%7C%20MySQL-informational?style=for-the-badge&logo=postgresql&logoColor=ffffff&color=ff4c8b" />
 </p>
 
 ### Contact
