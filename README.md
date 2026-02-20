@@ -74,20 +74,20 @@
 ## GitHub Stats and activity <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
   
 <!-- Activity Graph en rojo -->
-[![Henry's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&bg_color=0d1117&color=ff4c8b&line=ff1d58&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Henry's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HenryM8&bg_color=0d1117&color=ff4c8b&line=ff1d58&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Stats y Lenguajes en rojo -->
 <div align="center">
   <a href="https://github.com/HenryM8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryM8&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff4c8b&text_color=ffffff&icon_color=ff4c8b&border_color=ff1d58" alt="Henry's Top Languages"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff4c8b&text_color=ffffff&icon_color=ff4c8b&border_color=ff1d58" alt="Henry's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryM8&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff4c8b&text_color=ffffff&icon_color=ff4c8b&border_color=ff1d58&cache_seconds=21600" alt="Henry's Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryM8&show_icons=true&locale=en&layout=compact&theme=radical&title_color=ff4c8b&text_color=ffffff&icon_color=ff4c8b&border_color=ff1d58&cache_seconds=21600" alt="Henry's GitHub Stats"/>
   </a>
 </div>
 
 <!-- Streak Stats en rojo -->
 <p align="center">
   <a href="https://github.com/HenryM8">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenryM8&theme=radical&ring=ff4c8b&fire=ff1d58&currStreakLabel=ffffff" alt="Henry's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=HenryM8&theme=radical&ring=ff4c8b&fire=ff1d58&currStreakLabel=ffffff" alt="Henry's GitHub Streak" />
   </a>
 </p>
 
@@ -103,4 +103,3 @@ Thanks for visiting my GitHub profile! I am always open to new projects and lear
 </picture>
 
 </div>
-
