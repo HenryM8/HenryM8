@@ -43,7 +43,7 @@
 | **JavaScript** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1Cu8BM5XA316S3XyReqZ4FXhZA2wI4Qii/view?usp=sharing) |
 | **TypeScript** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1wr9M1buD88Q7BDRCp0FC65tkz3wXUXAL/view?usp=sharing) |
 | **NodeJs** | {Dev/Talles} | 2024 | [View](https://drive.google.com/file/d/1f-zbXEpZwvRfyIMsm3u1bAlx-eT6kvq8/view?usp=sharing) |
-<!-- aquí mantienes el resto de certificados comentados como ya los tenías -->
+<!-- aquí puedes dejar el resto de certificados comentados como ya los tenías -->
 </div>
  
 
@@ -51,52 +51,55 @@
 
 ## GitHub Stats and activity <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub Icon" width="20" height="20">
   
-<!-- Activity Graph en rojo (se mantiene, es el que mejor funciona) -->
+<!-- Activity Graph -->
 [![Henry's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&bg_color=0d1117&color=ff4c8b&line=ff1d58&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Streak Stats en rojo (ya comprobado que funciona bien) -->
+<!-- Streak Stats -->
 <p align="center">
   <a href="https://github.com/HenryM8">
     <img src="https://streak-stats.demolab.com/?user=HenryM8&theme=radical&ring=ff4c8b&fire=ff1d58&currStreakLabel=ffffff" alt="Henry's GitHub Streak" />
   </a>
 </p>
 
-<!-- Nuevo bloque: Profile Highlights en lugar de stats/top-langs -->
-<h3>Profile Highlights ✨</h3>
+## Featured Repositories & Activity 📂
 
-<p align="center">
-  <table>
-    <tr>
-      <td>🚀 Focus</td>
-      <td>Backend & Fullstack JavaScript / TypeScript</td>
-    </tr>
-    <tr>
-      <td>🧱 Main Stack</td>
-      <td>Node.js · NestJS · React · Next.js · PostgreSQL/MySQL</td>
-    </tr>
-    <tr>
-      <td>⚙️ Architecture</td>
-      <td>Clean Architecture · SOLID · Microservices · REST & GraphQL</td>
-    </tr>
-    <tr>
-      <td>☁️ DevOps</td>
-      <td>Docker · Kubernetes · CI/CD · Cloudflare · Vercel / Netlify</td>
-    </tr>
-    <tr>
-      <td>✅ Practices</td>
-      <td>Testing (Jest, Selenium) · Code Review · Agile/Scrum (CSM)</td>
-    </tr>
-  </table>
-</p>
+<!-- REEMPLAZA LOS REPOS POR LOS TUYOS PRINCIPALES -->
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HenryM8/mi-backend-nestjs">mi-backend-nestjs</a></td>
+    <td>API REST modular con NestJS, auth JWT y arquitectura limpia.</td>
+    <td>NestJS · TypeScript · PostgreSQL · Docker</td>
+    <td>🚀 Active development</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HenryM8/mi-dashboard-next">mi-dashboard-next</a></td>
+    <td>Panel administrativo con gráficos, filtros y auth para clientes.</td>
+    <td>Next.js · React · TailwindCSS</td>
+    <td>🛠️ Ongoing improvements</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HenryM8/mi-microservice-payments">mi-microservice-payments</a></td>
+    <td>Microservicio para manejo de pagos, colas y eventos.</td>
+    <td>Node.js · Express · RabbitMQ · MongoDB</td>
+    <td>✅ Stable / maintenance mode</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/HenryM8/mi-app-react-native">mi-app-react-native</a></td>
+    <td>Aplicación móvil para gestionar tareas y notificaciones en tiempo real.</td>
+    <td>React Native · Expo · Socket.IO</td>
+    <td>📱 Feature updates</td>
+  </tr>
+</table>
 
-<!-- Badges de stack (más simples y estables que las stats dinámicas) -->
+<!-- Puedes añadir una fila para proyectos privados sin revelar el repo -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=ffffff&color=ff4c8b" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=ffffff&color=ff4c8b" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=ffffff&color=ff4c8b" />
-  <img src="https://img.shields.io/badge/API-NestJS-informational?style=for-the-badge&logo=nestjs&logoColor=ffffff&color=ff4c8b" />
-  <img src="https://img.shields.io/badge/Web-React%20%7C%20Next.js-informational?style=for-the-badge&logo=react&logoColor=ffffff&color=ff4c8b" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL%20%7C%20MySQL-informational?style=for-the-badge&logo=postgresql&logoColor=ffffff&color=ff4c8b" />
+  <i>También trabajo en varios proyectos privados de clientes (fintech, dashboards y microservicios en producción).</i>
 </p>
 
 ### Contact
