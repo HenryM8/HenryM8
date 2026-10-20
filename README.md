@@ -47,14 +47,22 @@ Costa Rica
 
 ---
 
+<div align="center">
+
 ### Certifications
 
-| Certification | Provider | Year | Link |
-| --- | --- | :---: | :---: |
-| Certified Scrum Master (CSM) | SCRUMstudy | 2022 | [Certificate](https://drive.google.com/file/d/1fzjIyJ3WyhWPK9wbOwG6a2jv9SA7o-N-/view?usp=drive_link) |
-| JavaScript | {Dev/Talles} | 2024 | [Certificate](https://drive.google.com/file/d/1Cu8BM5XA316S3XyReqZ4FXhZA2wI4Qii/view?usp=sharing) |
-| TypeScript | {Dev/Talles} | 2024 | [Certificate](https://drive.google.com/file/d/1wr9M1buD88Q7BDRCp0FC65tkz3wXUXAL/view?usp=sharing) |
-| Node.js | {Dev/Talles} | 2024 | [Certificate](https://drive.google.com/file/d/1f-zbXEpZwvRfyIMsm3u1bAlx-eT6kvq8/view?usp=sharing) |
+<table align="center">
+  <tr>
+    <td align="center" width="250"><b>Certified Scrum Master</b><br><sub>SCRUMstudy · CSM · 2022</sub><br><br><a href="https://drive.google.com/file/d/1fzjIyJ3WyhWPK9wbOwG6a2jv9SA7o-N-/view?usp=drive_link">Certificate</a></td>
+    <td align="center" width="250"><b>JavaScript</b><br><sub>{Dev/Talles} · 2024</sub><br><br><a href="https://drive.google.com/file/d/1Cu8BM5XA316S3XyReqZ4FXhZA2wI4Qii/view?usp=sharing">Certificate</a></td>
+  </tr>
+  <tr>
+    <td align="center" width="250"><b>TypeScript</b><br><sub>{Dev/Talles} · 2024</sub><br><br><a href="https://drive.google.com/file/d/1wr9M1buD88Q7BDRCp0FC65tkz3wXUXAL/view?usp=sharing">Certificate</a></td>
+    <td align="center" width="250"><b>Node.js</b><br><sub>{Dev/Talles} · 2024</sub><br><br><a href="https://drive.google.com/file/d/1f-zbXEpZwvRfyIMsm3u1bAlx-eT6kvq8/view?usp=sharing">Certificate</a></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
