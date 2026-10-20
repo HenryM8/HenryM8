@@ -63,14 +63,6 @@ Costa Rica
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HenryM8&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=58a6ff&amp;ring_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HenryM8&amp;show_icons=true&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=1f2328&amp;text_color=656d76&amp;icon_color=0969da&amp;ring_color=0969da" />
-  <img alt="Henry's GitHub stats" width="480" src="https://github-readme-stats.vercel.app/api?username=HenryM8&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=8b949e&amp;icon_color=58a6ff&amp;ring_color=58a6ff" />
-</picture>
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=HenryM8&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E&amp;stroke=0D1117" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=HenryM8&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=0969DA&amp;currStreakNum=1F2328&amp;sideNums=1F2328&amp;currStreakLabel=656D76&amp;sideLabels=656D76&amp;dates=656D76&amp;stroke=FFFFFF" />
   <img alt="Henry's GitHub streak" width="480" src="https://streak-stats.demolab.com?user=HenryM8&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=8B949E&amp;sideLabels=8B949E&amp;dates=8B949E&amp;stroke=0D1117" />
@@ -78,13 +70,6 @@ Costa Rica
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&amp;bg_color=0d1117&amp;color=8b949e&amp;line=58a6ff&amp;point=e6edf3&amp;area=true&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution%20activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&amp;bg_color=ffffff&amp;color=656d76&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution%20activity" />
-  <img alt="Henry's GitHub activity graph" width="780" src="https://github-readme-activity-graph.vercel.app/graph?username=HenryM8&amp;bg_color=0d1117&amp;color=8b949e&amp;line=58a6ff&amp;point=e6edf3&amp;area=true&amp;hide_border=true&amp;radius=12&amp;custom_title=Contribution%20activity" />
-</picture>
-
-<br>
 
 Open to new projects and conversations.
 
