@@ -7,14 +7,6 @@ Costa Rica
 
 *Prove them wrong.*
 
-<br>
-
-<a href="mailto:henryrm8@gmail.com">henryrm8@gmail.com</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### Stack
