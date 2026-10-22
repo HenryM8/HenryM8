@@ -5,8 +5,6 @@
 **Systems Engineer** · Co-founder of Tridev SKH<br>
 Costa Rica
 
-*Prove them wrong.*
-
 ---
 
 <div align="center">
