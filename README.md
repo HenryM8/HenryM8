@@ -7,6 +7,8 @@ Costa Rica
 
 *Prove them wrong.*
 
+---
+
 <div align="center">
 
 ### Stack
